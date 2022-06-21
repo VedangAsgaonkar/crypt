@@ -1,4 +1,4 @@
-A homemade tool quickly to encrypt and decrypt files and folders.
+A homemade tool to quickly encrypt and decrypt files and folders.
 ## Usage:
 ### Compilation:
 ```
